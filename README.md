@@ -1,2 +1,2 @@
 # Yaadua-
-A plant watering indicator device
+The plant doctor 
