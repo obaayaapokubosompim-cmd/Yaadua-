@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Smart plant watering indicator
+> The plant doctor  Yaadua detects whether a plant is showing signs of disease and gives the farmer a simple diagnosis/recommendation.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
